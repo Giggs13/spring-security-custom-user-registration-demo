@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.luv2code</groupId>
-    <artifactId>spring-security-custom-user-registration-demo</artifactId>
+    <artifactId>spring-security-user-registration-custom-user-details</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
 
-    <name>spring-security-custom-user-registration-demo</name>
+    <name>spring-security-user-registration-custom-user-details</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -133,7 +133,7 @@
     </dependencies>
 
     <build>
-        <finalName>spring-security-custom-user-registration-demo</finalName>
+        <finalName>spring-security-user-registration-custom-user-details</finalName>
 
         <plugins>
             <plugin>
